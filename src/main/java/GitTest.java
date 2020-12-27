@@ -5,6 +5,6 @@
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("this is my git test!!!!");
-        System....
+        System.out.println("this is second time commit!!!")
     }
 }
